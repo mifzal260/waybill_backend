@@ -1,0 +1,13 @@
+.venv
+venv
+ENV
+__pycache__
+*.pyc
+.idea
+.vscode
+node_modules
+src
+image
+*.jpg
+*.png
+credentials.json
